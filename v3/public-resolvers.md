@@ -3273,31 +3273,21 @@ sdns://AgAAAAAAAAAACjEuMTIuMzQuNTYACjEuMTIuMTIuMTIKL2Rucy1xdWVyeQ
 
 ## doh-cleanbrowsing-adult
 
-Blocks access to adult, pornographic and explicit sites. It does
-not block proxy or VPNs, nor mixed-content sites. Sites like Reddit
-are allowed. Google and Bing are set to the Safe Mode.
-
-By https://cleanbrowsing.org/
+This is a duplicate entry, change your configs instead to cleanbrowsing-adult-doh
 
 sdns://AgMAAAAAAAAAAAAVZG9oLmNsZWFuYnJvd3Npbmcub3JnEi9kb2gvYWR1bHQtZmlsdGVyLw
 
 
 ## doh-cleanbrowsing-family
 
-Blocks access to adult, pornographic and explicit sites. It also
-blocks proxy and VPN domains that are used to bypass the filters.
-Mixed content sites (like Reddit) are also blocked. Google, Bing and
-Youtube are set to the Safe Mode.
-
-By https://cleanbrowsing.org/
+This is a duplicate entry, change your configs instead to cleanbrowsing-family-doh
 
 sdns://AgMAAAAAAAAAAAAVZG9oLmNsZWFuYnJvd3Npbmcub3JnEy9kb2gvZmFtaWx5LWZpbHRlci8
 
 
 ## doh-cleanbrowsing-security
 
-Block access to phishing, malware and malicious domains. It does not block adult content.
-By https://cleanbrowsing.org/
+This is a duplicate entry, change your configs instead to cleanbrowsing-security-doh
 
 sdns://AgMAAAAAAAAAAAAVZG9oLmNsZWFuYnJvd3Npbmcub3JnFS9kb2gvc2VjdXJpdHktZmlsdGVyLw
 
